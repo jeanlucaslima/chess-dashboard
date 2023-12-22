@@ -11,6 +11,7 @@ Because I want more insights with beautiful charts for my games.
 * [ ] Highligh losing streaks
 * [ ] Overlay dates on Elo x #games graph
 * [ ] Games by day graph (#games x date)
+* [ ] Grab games from lichess API
 
 # How to run
 
