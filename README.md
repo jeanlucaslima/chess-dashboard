@@ -13,6 +13,11 @@ Because I want more insights with beautiful charts for my games.
 * [ ] Games by day graph (#games x date)
 * [ ] Grab games from lichess API
 
+## Insights ideas
+
+* [ ] Weekly average rating, with how many games
+* [ ] Average daily rating, with "shadow" that as large as many games there were
+
 # How to run
 
 TBD
