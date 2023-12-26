@@ -12,6 +12,7 @@ Because I want more insights with beautiful charts for my games.
 * [ ] Overlay dates on Elo x #games graph
 * [ ] Games by day graph (#games x date)
 * [ ] Grab games from lichess API
+* [ ] Calendar with gree/red/grey days - each color for rate variation, could have intensity
 
 ## Insights ideas
 
