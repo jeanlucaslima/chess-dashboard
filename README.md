@@ -13,6 +13,7 @@ Because I want more insights with beautiful charts for my games.
 * [ ] Games by day graph (#games x date)
 * [ ] Grab games from lichess API
 * [ ] Calendar with gree/red/grey days - each color for rate variation, could have intensity
+* [ ] Dataviz: winning/lose streaks as a graph 
 
 ## Insights ideas
 
